@@ -11,6 +11,6 @@ Mock.qa is a cloud service (SaaS) that provides a production-ready gRPC mocking 
 
 <p align="center">
   <a href="https://mock.qa/">
-    <img src="https://user-images.githubusercontent.com/6689884/164080579-52ccc4bb-e3bc-41ff-ac26-dca342b979cb.png" alt="social-image">
+    <img src="https://user-images.githubusercontent.com/6689884/164733010-1360bd30-e39a-46ef-a583-d399891450c6.png" alt="grpc-mock">
   </a>
 </p>
