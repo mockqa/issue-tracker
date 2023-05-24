@@ -14,3 +14,5 @@ Mock.qa is a cloud service (SaaS) that provides a production-ready gRPC mocking 
     <img src="https://user-images.githubusercontent.com/6689884/164733010-1360bd30-e39a-46ef-a583-d399891450c6.png" alt="grpc-mock">
   </a>
 </p>
+
+[![Backup Status](https://cloudback.it/badge/mockqa/issue-tracker)](https://cloudback.it)
